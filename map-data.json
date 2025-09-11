@@ -8,7 +8,7 @@
         "popup": "St. Mary the Virgin & St. Chad, Brewood",
         "markerShape": "cross",
         "markerColor": "black",
-        "markerSize": 32
+        "markerSize": 48
       },
       "geometry": {
         "type": "Point",

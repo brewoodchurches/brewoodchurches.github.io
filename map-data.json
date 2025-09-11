@@ -7,7 +7,8 @@
         "name": "Brewood",
         "popup": "St. Mary the Virgin & St. Chad, Brewood",
         "markerShape": "cross",
-        "markerColor": "black"
+        "markerColor": "black",
+        "markerSize": 32
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +21,8 @@
         "name": "Bishops Wood",
         "popup": "St. John the Evangelist, Bishops Wood",
         "markerShape": "cross",
-        "markerColor": "black"
+        "markerColor": "black",
+        "markerSize": 32
       },
       "geometry": {
         "type": "Point",
@@ -33,9 +35,9 @@
         "name": "Brewood",
         "popup": "The Parish of Brewood",
         "strokeColor": "red",
-        "strokeOpacity": 0.7,
+        "strokeOpacity": 0.1,
         "fillColor": "#f30",
-        "fillOpacity": 0.2
+        "fillOpacity": 0.1
       },
       "geometry": {
         "type": "Polygon",

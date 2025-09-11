@@ -35,7 +35,7 @@
         "name": "Brewood",
         "popup": "The Parish of Brewood",
         "strokeColor": "red",
-        "strokeOpacity": 0.1,
+        "strokeOpacity": 0.5,
         "fillColor": "#f30",
         "fillOpacity": 0.1
       },
@@ -750,9 +750,9 @@
         "name": "Bishops Wood",
         "popup": "The Parish of Bishops Wood",
         "strokeColor": "blue",
-        "strokeOpacity": 0.7,
+        "strokeOpacity": 0.5,
         "fillColor": "#30f",
-        "fillOpacity": 0.2
+        "fillOpacity": 0.1
       },
       "geometry": {
         "type": "Polygon",

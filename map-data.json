@@ -7,7 +7,7 @@
         "name": "Brewood",
         "popup": "St. Mary the Virgin & St. Chad, Brewood",
         "markerShape": "cross",
-        "markerColor": "red"
+        "markerColor": "black"
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +20,7 @@
         "name": "Bishops Wood",
         "popup": "St. John the Evangelist, Bishops Wood",
         "markerShape": "cross",
-        "markerColor": "blue"
+        "markerColor": "black"
       },
       "geometry": {
         "type": "Point",

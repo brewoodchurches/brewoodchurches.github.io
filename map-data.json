@@ -35,9 +35,9 @@
         "name": "Brewood",
         "popup": "The Parish of Brewood",
         "strokeColor": "red",
-        "strokeOpacity": 0.5,
+        "strokeOpacity": 0.25,
         "fillColor": "#f30",
-        "fillOpacity": 0.1
+        "fillOpacity": 0.01
       },
       "geometry": {
         "type": "Polygon",

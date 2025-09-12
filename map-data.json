@@ -37,7 +37,7 @@
         "strokeColor": "red",
         "strokeOpacity": 0.25,
         "fillColor": "#f30",
-        "fillOpacity": 0.01
+        "fillOpacity": 0.05
       },
       "geometry": {
         "type": "Polygon",
@@ -752,7 +752,7 @@
         "strokeColor": "blue",
         "strokeOpacity": 0.25,
         "fillColor": "#30f",
-        "fillOpacity": 0.01
+        "fillOpacity": 0.05
       },
       "geometry": {
         "type": "Polygon",

@@ -22,7 +22,7 @@
         "popup": "St. John the Evangelist, Bishops Wood",
         "markerShape": "cross",
         "markerColor": "black",
-        "markerSize": 32
+        "markerSize": 48
       },
       "geometry": {
         "type": "Point",
@@ -750,9 +750,9 @@
         "name": "Bishops Wood",
         "popup": "The Parish of Bishops Wood",
         "strokeColor": "blue",
-        "strokeOpacity": 0.5,
+        "strokeOpacity": 0.25,
         "fillColor": "#30f",
-        "fillOpacity": 0.1
+        "fillOpacity": 0.01
       },
       "geometry": {
         "type": "Polygon",
